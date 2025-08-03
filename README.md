@@ -1,5 +1,5 @@
 # Retractable Wind Probe 
-
+![Deployed View](/PHOTO.png)</br>
 This is a mechanical design of a wind probe system that can retract and hide itself inside a box-like structure. It includes a gear and rack mechanism to raise and lower the anemometer. The side panels rotate to allow deployment.
 
 ## Features
