@@ -19,6 +19,7 @@ This system is intended for projects where wind measurement is needed but the se
 2. The anemometer rises through the top of the enclosure.
 3. Side panels open to allow wind to reach the sensor.
 4. To retract, the gear lowers the shaft and the side panels close.
+5. the side panel are not automaticly closed rather manualy 
 
 ## Notes
 
